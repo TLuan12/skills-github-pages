@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Testing GitHub page
 ---
+
+So you need to pay if the repo is in private mode.
